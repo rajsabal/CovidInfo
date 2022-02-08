@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+     color: rgb(5, 5, 56);
     /* background-color: #fff; */
 }
 
@@ -13,7 +14,7 @@ th{
 }
 table{
    
-    margin: 40px 0 0 3px;
+   margin: auto;
     border-collapse: collapse;
      background-color: rgb(245, 241, 241);
 }
